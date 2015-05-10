@@ -1,2 +1,2 @@
 # hello-world
-Guess what
+Guess what: saying hello to the world!
